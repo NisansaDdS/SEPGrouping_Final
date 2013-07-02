@@ -1,0 +1,7 @@
+C:\Users\Nisansa\Documents\Visual Studio 2008\Projects\SEPGrouping\SEPGrouping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nisansa\Documents\Visual Studio 2008\Projects\SEPGrouping\SEPGrouping\obj\Debug\SEPGrouping.Properties.Resources.resources
+C:\Users\Nisansa\Documents\Visual Studio 2008\Projects\SEPGrouping\SEPGrouping\obj\Debug\SEPGrouping.csproj.GenerateResource.Cache
+C:\Users\Nisansa\Documents\Visual Studio 2008\Projects\SEPGrouping\SEPGrouping\bin\Debug\SEPGrouping.exe
+C:\Users\Nisansa\Documents\Visual Studio 2008\Projects\SEPGrouping\SEPGrouping\bin\Debug\SEPGrouping.pdb
+C:\Users\Nisansa\Documents\Visual Studio 2008\Projects\SEPGrouping\SEPGrouping\obj\Debug\SEPGrouping.exe
+C:\Users\Nisansa\Documents\Visual Studio 2008\Projects\SEPGrouping\SEPGrouping\obj\Debug\SEPGrouping.pdb
